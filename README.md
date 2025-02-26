@@ -1,3 +1,3 @@
 # AUSTDC
 Website for AUST Debate Club
-https://adnann07.github.io/AUSTDC/
+https://austdc.netlify.app/
